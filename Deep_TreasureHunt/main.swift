@@ -4,8 +4,8 @@
 import Foundation
 
 
-var player1Name = ""
-var player2Name = ""
+var player1Name = "Player1"
+var player2Name = "Player2"
 var player1Treasures = 0
 var player2Treasures = 0
 var player1Points = 0
